@@ -1,6 +1,6 @@
 NAME:='lazydocker'
 VERSION:='0.23.1'
-PYPI_VERSION:='0.23.1a1'
+PYPI_VERSION:='0.23.1'
 URL:='https://github.com/jesseduffield/lazydocker/releases'
 
 
